@@ -26,10 +26,11 @@ The sample Dataset summarizes the usage behavior of about 9000 active credit car
 - Tenure: The duration for which the customer has held the credit card (in months).
 
 ## Findings 
-Cluster 0: Customers that makes a lot of purchase and barely take cash advance.
-Cluster 1: Customers take a lot of cash advance using their credit cards but make few purchases
-Cluster 2: Customers with high number of purchases and take a lot of cash advance using their credit cards.
-
+<ul>
+  <li>Cluster 0: Customers that makes a lot of purchase and barely take cash advance.</li>
+  <li>Cluster 1: Customers take a lot of cash advance using their credit cards but make few purchases.</li>
+  <li>Cluster 2: Customers with high number of purchases and take a lot of cash advance using their credit cards.</li>
+</ul>
 Visual representation of clusters
 
 ![CLUSTER2](https://github.com/Promiz10/Market-Segmentation/assets/139330928/93fb9c55-e4de-49e0-970d-7275c9a7e78a)
